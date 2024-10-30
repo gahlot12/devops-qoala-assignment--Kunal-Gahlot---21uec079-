@@ -20,7 +20,7 @@
    Built the python application image with -> docker build -t local-python-app ./python
 
 2. Creating Missing HTML Directory ->
-   To fix the missing html directory issue, I created the nginx/html directory and added an index.html file with a placeholder message <h1>Hello from Nginx!</h1>
+   To fix the missing html directory issue, I created the nginx/html directory and added an index.html file with a placeholder message     Hello from Nginx!
 
 3. Running the Application:
    Successfully launched the application using Docker Compose with ->
